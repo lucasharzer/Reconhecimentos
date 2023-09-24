@@ -1,0 +1,7 @@
+face_recognition
+gtts
+langdetect
+mediapipe
+opencv-python
+pygame
+SpeechRecognition
