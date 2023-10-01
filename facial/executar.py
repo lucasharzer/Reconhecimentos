@@ -63,6 +63,7 @@ class ReconhecerFace:
         similaridade = 1 - distancia
         print(f"Similaridade: {similaridade}")
 
+
 if __name__ == "__main__":
     r = ReconhecerFace()
     # r.detectar_rostos()

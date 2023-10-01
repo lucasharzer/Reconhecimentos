@@ -4,3 +4,5 @@ ambiente
 audios
 # Qualquer pasta de imagens
 imagens
+# Arquivo de variáveis de ambiente
+.env

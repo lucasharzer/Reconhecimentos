@@ -1,7 +1,10 @@
-face_recognition
-gtts
-langdetect
-mediapipe
-opencv-python
 pygame
+langdetect
+gtts
 SpeechRecognition
+opencv-python
+mediapipe
+face_recognition
+blob
+pytesseract
+python-dotenv

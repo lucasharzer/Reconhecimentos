@@ -50,6 +50,7 @@ class ReconhecerVoz:
         pygame.mixer.quit()
         os.remove(self.nome_audio)
 
+
 if __name__ == "__main__":
     try:
         r = ReconhecerVoz()
